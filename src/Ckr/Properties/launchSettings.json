@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ckr": {
+      "commandName": "Project",
+      "commandLineArgs": "subscribe -b 192.168.1.103 -g Test01 -t wikidata-mpmodified -o Earliest -a true"
+    }
+  }
+}
